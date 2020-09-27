@@ -1,0 +1,663 @@
+@media screen and (max-width:1800px){ 
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1140px;
+}
+	.slider-box h1 {
+    font-size: 51px;
+}
+	.slider-box p {
+    color: #fff;
+    font-size: 30px;
+    margin: 16px 0 0 0;
+}
+	.down-arrow {
+    margin-top: 11%;
+}
+	.height-school-sec h2, .eligibility_criteria h3, .how_main h3, .parer-box h4 {
+    font-size: 61px;
+}
+	.eligibility_criteria ul li {
+    width: 46%;
+	}
+.who-can-sec h4 {
+    font-size: 69px;
+    line-height: 61px;
+}
+	.content-bx p {
+    color: #fff;
+    font-size: 23px;
+    line-height: 31px;
+}
+	.first-young p {
+		font-size: 38px;
+    padding: 0 50px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    margin: 0;
+    padding: 256px 0 0 44px;
+    list-style: none;
+    color: #fff;
+    font-size: 37px;
+    line-height: 53px;
+}
+	.parer-box h4 {
+    margin: 17px 0 0 0;
+    padding: 0 0 36px 0;
+}
+	
+}
+@media screen and (max-width:1600px){
+	.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 974px;
+}
+	
+	.slider-box h1 {
+    font-size: 43px;
+}
+	.slider-box p {
+    color: #fff;
+    font-size: 25px;
+    margin: 16px 0 0 0;
+}
+	.down-arrow {
+    margin-top: 9%;
+}
+	.height-school-sec h2 {
+    font-size: 55px;
+}
+	.content-bx p {
+    color: #fff;
+    font-size: 25px;
+    line-height: 32px;
+}
+	.height-school-sec .container {
+    padding-top: 70px;
+}
+	.first-young {
+    padding: 80px 0;
+}
+	.first-young p {
+    font-size: 42px;
+}
+	.who-can-sec h4 {
+		font-size: 68px;}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    margin: 0;
+    padding: 256px 0 0 44px;
+    font-size: 32px;
+    line-height: 43px;
+}
+.who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+    height: 466px;
+    width: 100px;
+}
+.button-apra-a {
+    font-size: 31px;
+    padding-left: 229px;
+    margin-top: 0;
+	    line-height: 43px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul { line-height: 53px;}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    padding: 209px 0 0 44px;
+		
+}
+.who-can-sec h4 {
+    padding: 209px 0 20px 0;
+}
+	
+.top-bg-img img {
+    width: auto;
+    height: 100%;
+}
+	.content-bx p {
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+}
+	.content-bx {
+    margin: 0;
+}
+	.content-bx .btn-white {
+    float: left;
+    margin: 23px auto 0;
+}
+.first-young p {
+    font-size: 35px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    padding: 209px 0 0 40px;
+    line-height: 44px;
+    font-size: 31px;
+}
+	.who-can-sec h4 {
+    font-size: 56px;
+}
+.button-apra-a {
+    font-size: 31px;
+    padding-left: 218px;
+    margin-top: 0;
+}	
+	.who-can-sec {
+
+    padding-bottom: 95px;
+}
+	.eligibility_criteria ul li p {
+    font-size: 23px;
+    line-height: 29px;
+		padding:0;
+}
+.bottom-bg-img img {
+    width:378px;
+}
+.eligibility_criteria {
+    padding: 50px 0 64px;
+}
+	.eligibility_criteria h3 {    padding: 0 0 40px 0;}
+.how_main {
+    padding: 0 0 60px;
+}
+	.how_main h3{
+	    padding: 0 0 53px 0;
+}
+	.video-main-box {
+    position: relative;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+	
+	.video-main-box img {width: 100%;}
+	.video-main-box a img:last-child {
+    top: 42%;
+    width: 104px;
+}
+.content-bx p {
+    color: #fff;
+    font-size: 23px;
+    line-height: 31px;
+}
+	.first-young p {
+    font-size: 42px;
+    line-height: 46px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    font-size: 37px;
+    line-height: 53px;
+}
+	.who-can-sec h4 {
+    font-size: 60px;
+    line-height: 63px;
+}
+
+	.how_main .top-bg-video {    width: 37%;}
+	.how_main .top-bg-video img {    width: 100%;}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    font-size: 31px;
+    line-height: 42px;
+}
+
+}
+@media screen and (max-width:1366px){
+		.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 912px;
+}
+		.who-can-sec h4 {
+    font-size: 62px;
+		    line-height: 55px;
+}
+.button-apra-a {
+    font-size: 30px;
+    padding-left: 188px;
+    margin-top: 0;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    padding: 209px 0 0 40px;
+    line-height: 45px;
+    font-size: 28px;
+}
+	.first-young p {
+    font-size: 33px;
+    line-height: 42px;
+}
+	.eligibility_criteria ul li {
+    width: 45%;
+}
+	.eligibility_criteria ul li p {
+    font-size: 21px;
+    line-height: 26px;
+    padding: 0;
+}
+	.how-content-bx h4 {
+    font-size: 38px;
+line-height: 53px;
+    margin: 50px 0 0 0;
+}
+	.how-content-bx p {
+    color: #fff;
+    font-size: 35px;
+    line-height: 46px;
+    padding-top: 8px;
+}
+	.menu-box ul li a, .addres-box-gr p, .contact-us-bx p {
+
+    font-size: 16px;
+}
+	.parer-box h4 {
+    margin: 45px 0 0 0;
+    padding: 0 0 36px 0;
+}
+}
+@media screen and (max-width:1280px){
+			.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 833px;
+}
+	.down-arrow {
+    margin-top: 8%;
+}
+	.height-school-sec h2, .eligibility_criteria h3, .how_main h3 {
+    font-size: 50px;
+}
+	.how-content-bx h4 {font-size: 37px;     margin: 39px 0 0 0;}
+	.how-content-bx p {
+    color: #fff;
+    font-size: 32px;
+    line-height: 40px;
+    padding-top: 3px;
+}
+	.eligibility_criteria ul li p {
+    font-size: 21px;
+    line-height: 26px;
+    padding: 0;
+}
+	.bottom-bg-img img {
+    width: 366px;
+}
+	
+	.how-content-bx h4 {font-size: 39px;     margin: 40px 0 0 0;}
+	.how-content-bx p {
+    color: #fff;
+    font-size: 35px;
+    line-height: 31px;
+    padding-top: 17px;
+}
+	
+	.content-bx p {
+    color: #fff;
+    font-size: 19px;
+    line-height: 27px;
+}
+	.eligibility_criteria ul li {
+    width: 44%;
+}
+	.eligibility_criteria ul li p {
+    font-size: 18px;
+    line-height: 19px;
+    padding: 0;
+}
+	.bottom-bg-img img {
+    width: 353px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    padding: 209px 0 0 40px;
+    line-height: 45px;
+    font-size: 25px;
+}
+	.button-apra-a {
+    font-size: 27px;
+    padding-left: 160px;
+    margin-top: 0;
+}
+	
+.slider-box h1 {
+    font-size: 36px;
+}
+	.slider-box p {
+    color: #fff;
+    font-size: 22px;
+    margin: 12px 0 0 0;
+}
+	.height-school-sec h2, .eligibility_criteria h3, .how_main h3 {
+    font-size: 42px;
+}
+	.content-bx p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 23px;
+}
+	.first-young p {
+    font-size: 29px;
+    line-height: 36px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    padding: 153px 0 0 40px;
+    line-height: 41px;
+    font-size: 26px;
+}
+	.who-can-sec h4 {
+    padding: 159px 0 20px 0;
+}
+	.who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+    height: 383px;
+    width: 100px;
+}
+}
+@media screen and (max-width:1169px){
+	.slider-box .container {
+    top: 26%;
+}
+.logo-box {
+    width: 100px;
+}
+	.logo-box img { width: 100%;}
+	
+}
+@media screen and (max-width:991px){
+.slider-box h1 {
+    font-size: 30px;
+}
+	.slider-box p {
+    font-size: 18px;
+    margin: 0;
+}
+	
+	.btn-white {
+    font-size: 16px;
+    padding: 4px 13px 2px;
+    border: 2px solid;
+    margin: 20px auto 0;
+}
+
+	.down-arrow {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    line-height: 30px;
+		    margin-top: 5%;
+}
+	.height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+    font-size: 30px;
+}
+	.height-school-sec h2 {
+    margin: 0 0 35px 0;
+}
+	
+	.height-school-sec .sect-two {
+    width: 30%;
+}
+.first-young {
+    padding: 48px 0 22px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4 {
+    padding-top: 70px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li {
+    padding: 0 0 30px 40px;
+}
+	.who-can-sec h4 {
+    line-height: 35px;
+}
+	.first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p {
+    font-size: 29px;
+    line-height: 36px;
+}
+	.who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+    height: 348px;
+    width: 67px;
+}
+	.button-apra-a {
+        padding-left: 178px;
+    padding-top: 0;
+}
+	.eligibility_criteria ul li {
+    display: block;
+    width: 100%;
+    clear: both;
+    float: none;
+    z-index: 999;
+    position: relative;
+    margin: 0 0 22px 0;
+}
+	.bottom-bg-img {
+    position: absolute;
+    top: auto;
+    right: 0;
+    bottom: 0;
+}
+	.eligibility_criteria {
+    padding: 50px 0 64px;
+    position: relative;
+}
+	.sticky {
+    padding: 0;
+    height: auto;
+    background: #000;
+}
+	
+	.header-classic {
+    z-index: 9999;
+}
+}
+@media screen and (max-width:767px){
+.content-bx p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 21px;
+}
+	.height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+    font-size: 25px;
+}
+	.height-school-sec .container {
+    padding-top: 40px;
+}
+	.height-school-sec h2 {
+    margin: 0 0 19px 0;
+}
+	.height-school-sec {
+    padding: 0 0 40px 0;
+}
+	.first-young {
+    padding: 35px 0 22px;
+		   background: url(../images/third-seciton-bg.jpg) no-repeat center top;
+		background-size: cover;
+}
+	.first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p, .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p {
+    font-size: 25px;
+    line-height: 30px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4 {
+    padding-top: 40px;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    padding: 154px 0 0 11px;
+    line-height: 41px;
+    font-size: 26px;
+}
+	.who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+    height: 278px;
+    width: 67px;
+}
+	.button-apra-a {
+    padding-left: 137px;
+    padding-top: 0;
+}
+	.who-can-sec {
+    padding-bottom: 40px;
+}
+	.eligibility_criteria {
+    padding: 20px 0 33px;
+    position: relative;
+}
+	.bottom-bg-img img {
+    width: 216px;
+}
+	.eligibility_criteria h3 {
+    padding: 0;
+}
+.menu-close.navbar-dark .navbar-toggler-icon {
+    background-image: url(../images/close-img.png);
+    width: 31px;
+    height: 23px;
+}
+}
+@media screen and (max-width:640px){
+	.slider-box {
+    position: relative;
+    width: 100%;
+    text-align: center;
+		overflow: hidden;
+}
+	.slider-box img {
+    width: auto;
+    height: 500px;
+    margin: 0 0 0 -54%;
+}
+	.content-bx {
+    margin: 29px 0 0 0;
+	}	.who-can-sec .col-md-4.col-sm-4.col-xs-12 h4  { text-align: left;     margin: 0;}
+	.who-can-sec .col-md-4.col-sm-4.col-xs-12 h4 br {display: none}
+	.who-can-sec .col-md-4.col-sm-4.col-xs-12::before {
+    height: 108px;
+    width: 70px;
+    left: 0;
+    right: 0;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul {
+    padding: 36px 0 0 11px;
+}
+	.height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+    font-size: 40px;
+}
+	.slider-box .container {
+    top: 36%;
+}
+}
+@media screen and (max-width:479px){
+	.slider-box img {
+    width: auto;
+    height: 500px;
+    margin: 0 0 0 -65%;
+}
+	.height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+    font-size: 30px;
+}
+	.first-young p {
+    padding: 0;
+}
+	.first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p, .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p, .content-bx p, .eligibility_criteria ul li p {
+    font-size: 22px;
+    line-height: 30px;
+}
+.button-apra-a {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    background: rgba(0,0,0,0.8);
+    padding: 10px 0 29px 0;
+}
+	.eligibility_criteria ul li p span {
+    font-size: 44px;
+    display: block;
+    line-height: normal;
+    font-weight: 600;
+}
+	.eligibility_criteria ul li { padding: 15px}
+	.video-main-box a img:last-child {
+    top: 31%;
+    width: 64px;
+}
+	.how_main h3, .parer-box h4 { margin: 29px 0 0 0;}
+	.how_main h3 {
+    padding: 0 0 9px 0;
+}
+	.how_main {
+    padding: 0 0 48px;
+}
+	.parer-box h4 {
+    margin: 27px 0 0 0;
+    padding:0;
+}
+	.parer-box .owl-carousel .owl-item {
+		text-align: center;
+    
+}
+	.parer-box .owl-carousel .owl-item img {
+    display: block;
+    width: 85%;
+		
+}
+	.parer-box {
+    padding-bottom: 50px;
+}
+	.contact-us-bx ul {
+    margin: 36px 0 35px 0;
+    padding: 0;
+    list-style: none;
+}
+	.copy-right-text {
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    background: #000;
+    padding: 18px 0 14px;
+		margin: 0;
+}
+	.who-can-sec {
+    padding-bottom: 0;
+}
+	.who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li {
+    padding: 0 0 15px 40px;
+}
+	.eligibility_criteria ul li {
+    padding: 15px 15px 7px 15px;
+}
+}
+@media screen and (max-width:440px){
+	.slider-box img {
+    width: auto;
+    height: 500px;
+    margin: 0 0 0 -373px;
+}
+	.slider-box h1 {
+    font-size: 28px;
+}
+	.btn-white {
+    font-size: 14px;
+    padding: 4px 13px 2px;
+    border: 2px solid;
+    margin: 20px auto 0;
+}
+	.first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p, .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p, .content-bx p, .eligibility_criteria ul li p {
+    font-size: 20px;
+    line-height: 27px;
+}
+	footer h3 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 14px 0 15px 0;
+}
+	.parer-box .owl-carousel .owl-item img {
+    display: block;
+    width: 82%;
+}
+}
+@media screen and (max-width:380px){
+	
+	.slider-box h1 {
+    font-size: 26px;
+}
+	.height-school-sec h2, .eligibility_criteria h3, .how_main h3, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul, .who-can-sec h4, .parer-box h4 {
+    font-size: 25px;
+}
+	.first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p, .first-young p, .who-can-sec .col-md-8.col-sm-8.col-xs-12 ul li, .button-apra-a, .how-content-bx h4, .how-content-bx p, .content-bx p, .eligibility_criteria ul li p {
+    font-size: 19px;
+    line-height: 25px;
+}
+}
+@media screen and (max-width:359px){
+
+	
+}
+@media screen and (max-width:320px){}
